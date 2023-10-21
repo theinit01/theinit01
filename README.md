@@ -4,13 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theinit01&label=Profile%20views&color=0e75b6&style=flat" alt="theinit01" /> </p>
 
 - 🔭 I’m currently getting good at **Malware Development**
-
 - 🌱 I’m currently learning **Machine learning and AI**
-
 - 👯 I’m looking to collaborate on **CTFs and Hackathons**
-
 - 📫 How to reach me **tushar3145@gmail.com**
-
 - ⚡ Fun fact **I forget to fork**
 
 <h3 align="left">Connect with me:</h3>
@@ -25,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theinit01&show_icons=true&locale=en&layout=compact" alt="theinit01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theinit01&show_icons=true&locale=en" alt="theinit01" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theinit01&" alt="theinit01" /></p>
