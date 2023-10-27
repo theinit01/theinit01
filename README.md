@@ -23,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theinit01&show_icons=true&locale=en" alt="theinit01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theinit01&" alt="theinit01" /></p>
+
+
+[![An image of @theinit01's Holopin badgesHolopin profile](https://holopin.me/theinit01)](https://holopin.io/@theinit01)
