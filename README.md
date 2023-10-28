@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Machine learning and AI**
 - 👯 I’m looking to collaborate on **CTFs and Hackathons**
 - 📫 How to reach me **tushar3145@gmail.com**
-- ⚡ Fun fact **I forget to fork**
+- ⚡ Fun fact: **I forget to fork**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
