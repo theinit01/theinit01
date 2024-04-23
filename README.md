@@ -25,6 +25,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theinit01&" alt="theinit01" /></p>
 
 [![theinit01's GitHub | Dependencies](https://stats.quine.sh/theinit01/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=theinit01)
-[![theinit01's GitHub | Topics Over Time](https://stats.quine.sh/theinit01/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=theinit01)
 
 [![An image of @theinit01's Holopin badgesHolopin profile](https://holopin.me/theinit01)](https://holopin.io/@theinit01)
