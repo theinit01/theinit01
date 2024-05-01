@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tushar Singh</h1>
-<h3 align="center">A passionate Ethical hacker and Software Developer</h3>
+<h1 align="center">Hi 👋, I'm Tushar Singh <p align="center"><br><img src="https://tryhackme-badges.s3.amazonaws.com/singh.tushar.png" alt="TryHackMe"></p></h1>
+<h3 align="center">A passionate Ethical Hacker and Software Developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theinit01&label=Profile%20views&color=0e75b6&style=flat" alt="theinit01" /> </p>
 
@@ -24,6 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theinit01&" alt="theinit01" /></p>
 
-[![theinit01's GitHub | Dependencies](https://stats.quine.sh/theinit01/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=theinit01)
 
 [![An image of @theinit01's Holopin badgesHolopin profile](https://holopin.me/theinit01)](https://holopin.io/@theinit01)
