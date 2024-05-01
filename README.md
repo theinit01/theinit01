@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tushar Singh <p align="center"><br><img src="https://tryhackme-badges.s3.amazonaws.com/singh.tushar.png" alt="TryHackMe"></p></h1>
+<h1 align="center">Hi 👋, I'm Tushar Singh</h1>
 <h3 align="center">A passionate Ethical Hacker and Software Developer</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theinit01&label=Profile%20views&color=0e75b6&style=flat" alt="theinit01" /> </p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/singh.tushar.png" alt="TryHackMe">
+
 
 - 🔭 I’m currently getting good at **Flask/FastAPI**
 - 🌱 I’m currently learning **Machine learning and AI**
