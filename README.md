@@ -42,7 +42,7 @@
     <a href="https://www.vectorlogo.zone/logos/javascript/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
     </a> 
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="flask" width="40" height="40"/>
   </a>
      <!-- Version Control and DevOps -->
