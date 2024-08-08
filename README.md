@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Singh</h1>
-<h3 align="center">A passionate Ethical Hacker and Software Developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theinit01&label=Profile%20views&color=0e75b6&style=flat" alt="theinit01" /> </p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/singh.tushar.png" alt="TryHackMe">
@@ -56,11 +56,9 @@
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
     </a>
    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
-
    
    <a href="https://nginx.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx"  width="40" height="40"/>
+   <!-- <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx"  width="40" height="40"/>
   </a>
   <!-- Operating Systems and Tools -->
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -73,7 +71,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+    <!-- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> -->
   </a>
   <a href="https://numpy.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
