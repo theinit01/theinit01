@@ -55,7 +55,7 @@
     <a href="https://www.kubernetes.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
     </a>
-   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+   <!-- <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
    
    <a href="https://nginx.org" target="_blank" rel="noreferrer">
    <!-- <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx"  width="40" height="40"/>
